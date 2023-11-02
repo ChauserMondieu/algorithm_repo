@@ -1,2 +1,5 @@
 # ignore unrelevant folders
 .DS_Store
+.idea
+# virtual env
+venv/
