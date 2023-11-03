@@ -3,3 +3,7 @@
 .idea
 # virtual env
 venv/
+# other files 
+*.arff
+*.rtf
+*.pkl
